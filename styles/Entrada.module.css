@@ -35,7 +35,7 @@
     text-transform: uppercase;
     font-size: 1.2rem;
     font-weight: 900;
-    color: var(--black);
+    color: var(--negro);
     border: 2px solid var(--primary);
     padding: 1rem 5rem;
     transition-property: background-color;

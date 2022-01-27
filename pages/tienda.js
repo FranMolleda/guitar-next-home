@@ -6,7 +6,7 @@ const Tienda = ({ guitarras }) => {
     <div className="contenedor">
       <Layout pagina="Tienda Virutal">
         <main>
-          <h1>Nuestra Colección</h1>
+          <h1 className="heading">Nuestra Colección</h1>
         </main>
         <Listado guitarras={guitarras} />
       </Layout>

@@ -8,7 +8,7 @@ function Curso({ curso }) {
         <div className={styles.contenido}>
           <h2 className="heading">{titulo}</h2>
           <p className={styles.texto}>{contenido}</p>
-          <a className={styles.enlace} href="#">
+          <a className={styles.enlace} href="/curso">
             Mas información
           </a>
         </div>

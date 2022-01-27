@@ -29,6 +29,10 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "descripcion": {
+      "type": "richtext",
+      "required": true
     }
   }
 }
